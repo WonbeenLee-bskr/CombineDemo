@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF3B080C2B4B95B600293053 /* MethodsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF3B080B2B4B95B600293053 /* MethodsExample.swift */; };
 		AF5AF4132B4B93CA00785C90 /* CombineDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5AF4122B4B93CA00785C90 /* CombineDemoApp.swift */; };
 		AF5AF4152B4B93CA00785C90 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5AF4142B4B93CA00785C90 /* ContentView.swift */; };
 		AF5AF4172B4B93CB00785C90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF5AF4162B4B93CB00785C90 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF3B080B2B4B95B600293053 /* MethodsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MethodsExample.swift; sourceTree = "<group>"; };
 		AF5AF40F2B4B93CA00785C90 /* CombineDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombineDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF5AF4122B4B93CA00785C90 /* CombineDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineDemoApp.swift; sourceTree = "<group>"; };
 		AF5AF4142B4B93CA00785C90 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				AF5AF4122B4B93CA00785C90 /* CombineDemoApp.swift */,
 				AF5AF4142B4B93CA00785C90 /* ContentView.swift */,
+				AF3B080B2B4B95B600293053 /* MethodsExample.swift */,
 				AF5AF4162B4B93CB00785C90 /* Assets.xcassets */,
 				AF5AF4182B4B93CB00785C90 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF3B080C2B4B95B600293053 /* MethodsExample.swift in Sources */,
 				AF5AF4152B4B93CA00785C90 /* ContentView.swift in Sources */,
 				AF5AF4132B4B93CA00785C90 /* CombineDemoApp.swift in Sources */,
 			);
